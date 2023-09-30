@@ -94,7 +94,7 @@ class LandscapeLayoutScreen extends StatelessWidget {
                     height: 10,
                   ),
                   const Text(
-                    '',
+                    'Royal Enfield',
                     style: TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
